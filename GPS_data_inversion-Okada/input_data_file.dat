@@ -1,0 +1,23 @@
+% *** INPUT & OUTPUT FILES ************************************************
+% [input_file]  - input file name (no extension)
+CG2
+
+% *** RAMDOM WALK *********************************************************
+% yrw Time interval in years - 
+% srw -  random walk noise StDev for leveling (0.5 mm/sqrt(yr)), m/sqrt(yr)
+2 0.0005 
+
+% *** ELASTIC CONSTANTS *************************************************** 
+% matrl(1)=1;                                     % 1st Lame constant
+% matrl(2)=matrl(1);                              % G shear modulus (2nd Lame constant)
+1 1
+
+% *** NUMBER OF RANDOM GRID SEARCHES
+250
+
+% *** SPHERE RADIUS
+500
+
+% *** SEARCH RADIUS
+49000
+

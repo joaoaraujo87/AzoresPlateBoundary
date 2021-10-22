@@ -12,5 +12,3 @@ The folder "GPS_data_inversion-Mogi" and "GPS_data_inversion-Buried" contains MA
 dMODELS software - Battaglia et al. (2013), J VOLCANOL GEOTH RES, 254,1-4.
 
 Add folders to your dMODELS directory (...\Dmodels\B_Inverse_modeling) and run main programs MogiGPS and BuriedGPS
-
-????-??-??:
